@@ -58,5 +58,5 @@ FreshFlow mimics this environment by analyzing:
 
 - Certain stores consistently face **high spoilage**, especially in perishable items like dairy and fruits.
 - Products like **Tomatoes** and **Butter** have high spoilage in specific stores, suggesting overstocking or cold-chain failures.
-- Cl
+  
 
